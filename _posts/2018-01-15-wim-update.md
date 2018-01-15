@@ -5,6 +5,7 @@ published: true
 layout: post
 title: Windows 10 Tweaks and Tips
 ---
+
 # Windows 10 Tweaks and Tips
 
 ## Speed, anti-spying, anti-track, and unwanted packages.
@@ -67,4 +68,4 @@ ___________________
         Windows-Defender-Client-WOW64-Package~31bf3856ad364e35 
         Windows-Defender-Client-Package~31bf3856ad364e35 
         Windows-Defender-AM-Default 
-        Microsoft-Windows-Security-SPP-Component-SKU 
+        Microsoft-Windows-Security-SPP-Component-SKU
