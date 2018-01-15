@@ -4,9 +4,11 @@ published: true
 
 # Windows 10 Tweaks and Tips
 
+If you want a cleaner, smaller image, better browsing, better gaming... The list goes on and on with endless posibilities using these simple tweaks for your windows 10 install. 
+
 ## Speed, anti-spying, anti-track, and unwanted packages.
 
-If you want a cleaner, smaller image, better browsing, better gaming... The list goes on and on with endless posibilities using these simple tweaks for your windows 10 install. 
+
 
 If you have a Creators Update Version. 1753, This is a HUGE Benefit. If you have the LTSB 1607. This is the final touch to disengage telemetry, tracking, and to block unwanted ip's 
 ___________________
