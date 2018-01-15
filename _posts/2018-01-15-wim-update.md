@@ -1,7 +1,10 @@
 ---
 published: true
 ---
-
+---
+layout: post
+title: Windows 10 Tweaks and Tips
+---
 # Windows 10 Tweaks and Tips
 
 ## Speed, anti-spying, anti-track, and unwanted packages.
