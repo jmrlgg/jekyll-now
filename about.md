@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Cook by Day : Tech Enthusiast By Night
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+An attempt to reach just one person and share my travels, as I explore the wealth of knowledge from the powers of my keyboard
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jmrlgg@yolodigi.com](mailto:jmrlgg@yolodigi.com)
