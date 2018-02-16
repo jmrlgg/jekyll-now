@@ -4,7 +4,7 @@ published: true
 ### Raspberry Pi Zero OTG Initial Setup
 First off you will need to flash Raspbian lite or Full on your SD card. Once you have finished the flash, leave your SD card in your PC. We will need to change your config.txt and cmdline.txt files
 
-##Down and dirty
+### Down and dirty
 
 **1.** Find your SD Card partition and open your ```config.txt``` and add ```dtoverlay=dwc2``` at the bottom
 
