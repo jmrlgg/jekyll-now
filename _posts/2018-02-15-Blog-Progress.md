@@ -1,9 +1,10 @@
 ---
 published: true
 ---
-## Blog Progress!
-An image, located within /images
+
 ![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+An image, located within /images
+
 
 * A bulletted list
 - alternative syntax 1
