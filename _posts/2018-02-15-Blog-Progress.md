@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Blog Progress!
 
@@ -22,4 +22,3 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 #### Header 4
 
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
-
