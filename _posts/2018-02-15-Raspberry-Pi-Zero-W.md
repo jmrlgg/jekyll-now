@@ -27,11 +27,3 @@ First off you will need to flash Raspbian lite or Full on your SD card. Once you
 
 You have now accessed your Raspberry Pi Zero through OTG ssh.
 
-
-<meta name="twitter:card" content="One mans Blog" />
-<meta name="twitter:site" content="@jmrlgg" />
-<meta name="twitter:creator" content="@jmrlgg" />
-<meta property="og:url" content="http://blog.yolodigi.com" />
-<meta property="og:title" content="One mans Attempt at Blogging" />
-<meta property="og:description" content="Tech, Media, Tutorials and daily life experinces." />
-<meta property="og:image" content="http://graphics8.nytimes.com/images/2011/12/08/technology/bits-newtwitter/bits-newtwitter-tmagArticle.jpg" />
