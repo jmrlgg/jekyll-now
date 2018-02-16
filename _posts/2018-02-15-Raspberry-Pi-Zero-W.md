@@ -1,8 +1,7 @@
 ---
 published: true
 ---
-## Raspberry Pi Zero OTG Initial Setup
-
+### Raspberry Pi Zero OTG Initial Setup
 First off you will need to flash Raspbian lite or Full on your SD card. Once you have finished the flash, leave your SD card in your PC. We will need to change your config.txt and cmdline.txt files
 
 ##Down and dirty
@@ -26,4 +25,3 @@ First off you will need to flash Raspbian lite or Full on your SD card. Once you
 * Your default pasword is raspberry 
 
 You have now accessed your Raspberry Pi Zero through OTG ssh.
-
