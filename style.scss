@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 16px/1.4 $helvetica;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -201,9 +201,9 @@ img {
 }
 
 .site-description {
-  margin: -10px 0 0 0;
+  margin: -5px 0 0 0;
   color: $gray;
-  font-size: 14px;
+  font-size: 16px;
 
   @include mobile {
     margin: 3px 0;
@@ -257,7 +257,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 18px;
+    font-size: 22px;
     font-style: italic;
   }
 
