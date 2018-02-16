@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Raspberry Pi Zero OTG Initial Setup
 
